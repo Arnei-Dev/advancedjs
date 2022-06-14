@@ -6,7 +6,7 @@ let months = [
     },
     {
         month: 'Fevereiro',
-        color: 'Amarelo',
+        color: 'Verde',
         days: 26
     },
     {
